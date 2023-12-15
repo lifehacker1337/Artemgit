@@ -1,0 +1,3 @@
+# .gitignore
+*.obj
+inside_folder/*/ *.log
